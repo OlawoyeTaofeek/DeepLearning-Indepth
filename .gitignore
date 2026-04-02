@@ -1,0 +1,16 @@
+.venv
+uv.lock
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+.python-version
+pyproject.toml
+*.egg-info
