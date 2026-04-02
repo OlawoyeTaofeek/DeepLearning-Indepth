@@ -14,3 +14,4 @@ dist/
 .python-version
 pyproject.toml
 *.egg-info
+.ipynb_checkpoints
