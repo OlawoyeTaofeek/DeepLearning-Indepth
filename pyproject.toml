@@ -1,0 +1,15 @@
+[project]
+name = "deeplearning-indepth"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi[all]>=0.135.3",
+    "jupyter>=1.1.1",
+    "lab>=8.9",
+    "pandas>=3.0.2",
+    "streamlit>=1.56.0",
+    "torch>=2.11.0",
+    "uvicorn>=0.42.0",
+]
