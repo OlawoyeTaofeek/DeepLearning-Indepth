@@ -11,10 +11,9 @@ ENV/
 build/
 develop-eggs/
 dist/
-.python-version
-pyproject.toml
 *.egg-info
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .data
 data/
 logs/
+flower_data/
