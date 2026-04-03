@@ -23,4 +23,4 @@
 - FastAPI for deployment
 - Experiment Tracking: MLflow, Evidently, Grafana
 - Containerization and Virtualization: Docker and Kubernetes
-- AWS Cloud 
+- AWS Cloud; Deployment with AWS Cloud, Amazon Sagemaker 
