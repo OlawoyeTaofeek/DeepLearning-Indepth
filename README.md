@@ -1,0 +1,26 @@
+# DeepLearning-Indepth
+
+- Deep Learning Foundation
+- CNN, RNN and LSTM
+- Preparing unstructured Data for modeling
+- Transformer Architecture and Evolution
+- Build a Large Language model from Scratch
+- Pydantic for LLM output Formating
+- HuggingFace
+- 4 project with deployment on CNN, RNN, and LLM
+- Agents and RAG
+- LangChain
+- LangGraph
+- LangSmith
+- OpenAI
+- CrewAI
+- AnthopicAI
+- LlamaIndex
+- Ollama
+- Gemini
+- MCPs
+- Agentic AI
+- FastAPI for deployment
+- Experiment Tracking: MLflow, Evidently, Grafana
+- Containerization and Virtualization: Docker and Kubernetes
+- AWS Cloud; Deployment with AWS Cloud, Amazon Sagemaker 
