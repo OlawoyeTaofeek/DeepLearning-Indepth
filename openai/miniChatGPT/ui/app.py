@@ -32,7 +32,7 @@ with st.sidebar:
     max_tokens = st.slider(
         "Max Tokens",
         50,
-        1000,
+        10000,
         200
     )
 
