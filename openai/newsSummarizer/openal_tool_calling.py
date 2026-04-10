@@ -7,7 +7,6 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 from typing import List
 import time   
-from datetime import datetime
 
 
 open_ai_api_key, news_api_key = Utils.get_api_key()
